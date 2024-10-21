@@ -1,0 +1,4 @@
+<Response>
+        <Record action="https://4964-49-37-240-174.ngrok-free.app/get_recording/" redirect="false" recordSession="true" maxLength="3600" />
+        <Stream bidirectional="true" streamTimeout="120" contentType="audio/x-mulaw;rate=8000" keepCallAlive="true" statusCallbackUrl="https://4964-49-37-240-174.ngrok-free.app/ss">wss://5c53-2600-1f18-2653-ce05-21d3-2211-6985-5f50.ngrok-free.app/ws</Stream>
+</Response>

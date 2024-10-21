@@ -81,4 +81,6 @@ curl -i -X POST https://api.plivo.com/v1/Account/{AUTH_ID}/Call/ \
     -d '{"to": "{DIAL_NUMBER}","from": "{PLIVO_NUMBER}", "answer_url": "https://4964-49-37-240-174.ngrok-free.app/xml", "answer_method": "GET"}'	
 ```
 
+Or make call using script makecall.js, Update, auth_id, auth_token, from, to and answer_url in the script
+
 
